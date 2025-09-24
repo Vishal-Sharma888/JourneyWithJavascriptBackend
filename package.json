@@ -1,0 +1,15 @@
+{
+  "name": "journey_to_backend_javascript",
+  "version": "1.0.0",
+  "description": "javascriptBackend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Backend"
+  ],
+  "author": "Vishal Sharma",
+  "license": "ISC"
+}
